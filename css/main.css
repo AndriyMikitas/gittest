@@ -1,3 +1,10 @@
 body {
     background-color: antiquewhite;
 }
+p{
+    color: rgb(30, 30, 133);
+}
+
+h1{
+    font-size: 40px;
+}
